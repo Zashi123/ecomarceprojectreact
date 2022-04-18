@@ -1,0 +1,50 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+   list-style-type: none;
+   box-shadow: none;
+}
+.container{
+  margin: 30px;
+  display: flex;
+   /* justify-content: flex-end; */
+
+}
+.main{
+
+}
+.main:hover{
+  transform: scale(1.1);
+  margin: 10px;
+
+}
+.main:hover .btn button{
+  display: block;
+  /* position: absolute;
+  color:whitesmoke;
+  background-color: black;
+  font-size: 20px; */
+
+}
+
+
+.btn button{
+  display: none;
+  color: red;
+
+  /* position: absolute;
+
+  left: 2%; 
+
+  width: 40%;
+  
+  text-transform: capitalize;
+  border: none;
+  outline: none;
+  top: 70%;
+  background-color: rgb(230, 33, 33);
+ display: none;
+ text-align: center; */
+}
