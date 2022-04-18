@@ -63,7 +63,7 @@ function MidlleProdct() {
           </CardActionArea>
             <CardActions  className='btn'>
             <Button size="lg" color="secondary"  >
-              see more
+              buy now
             </Button>
             </CardActions>
        
